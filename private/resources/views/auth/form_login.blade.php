@@ -7,7 +7,7 @@
     <!-- Automatic element centering -->
     <div class="lockscreen-wrapper">
         <div class="lockscreen-logo">
-            <a href="#"><b>SI</b>-PERIZINAN ----</a>
+            <a href="#"><b>SI</b>-PERIZINAN</a>
         </div>
         <!-- User name -->
 
