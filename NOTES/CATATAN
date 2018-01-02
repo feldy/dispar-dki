@@ -1,0 +1,29 @@
+CATATAN PERIZINAN:
+    ada 4 aktor :
+        - pemohon
+        - penilai
+        - pemeriksa
+        - penentu
+    @pemohon
+        - daftar semua permohonan [x] 
+        - form input permohonan [x]   
+    @pemeriksa
+        - daftar semua permohonan yang belum di periksa
+        - form input pemeriksaan form dari pemohon
+    @penilai
+        - daftar semua permohonan yang belum di nilai
+        - form penilaian permohonan yang sudah boleh di beri nilai (haya bisa menilai bagiannya saja)
+    @penentu
+        -
+
+    &form_login (.pemohon .penilai .pemeriksa .penentu) untuk semua aktor
+    &form_registrsi (.pemohon .penilai .pemeriksa .penentu) untuk semua aktor
+    &form_forget (.pemohon .penilai .pemeriksa .penentu) untuk semua aktor
+
+
+PROGRESS
+@2017-12-21 buat form login (.pemohon .penilai .pemeriksa .penentu)
+@2017-12-22 buat home #pemohon
+@2017-12-24 buat input #pemohon
+
+
